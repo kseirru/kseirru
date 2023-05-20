@@ -1,11 +1,11 @@
 <div align="center">
 <img src="nerv.png" width="256" height="256" title="NERV Logo">
   
-## kseirru#8380
+## kseirru#0705
 <hr>
   <table>
     <tr>
-      <td>za вкусно и точка</td>
+      <td>явчспивапсоапсоасчмиртачво</td>
     </tr>
     <tr>
       <td>любитель</td>
