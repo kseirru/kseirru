@@ -1,5 +1,5 @@
 <div align="center">
-<img src="wtf.png" width="256" height="256" title="оч хочу">
+<img src="wtf.png" alt="Image" onmouseover="this.src='ZtoNMEME2.gif'" onmouseout="this.src='wtf.png'" />
   
 ## хочу
 <hr>
