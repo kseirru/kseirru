@@ -1,13 +1,16 @@
 <div align="center">
-<img src="nerv.png" width="256" height="256" title="NERV Logo">
+<img src="wtf.png" width="256" height="256" title="оч хочу">
   
-## kseirru#0705
+## хочу
 <hr>
   <table>
     <tr>
       <td>явчспивапсоапсоасчмиртачво</td>
     </tr>
     <tr>
+      <td>дскрд</td>
+      <td>@kseirru</td>
+    </tr>
       <td>любитель</td>
       <td>джавы и котлина</td>
     </tr>
